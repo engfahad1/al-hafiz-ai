@@ -1,0 +1,7 @@
+{
+  "name": "Al-Hafiz AI",
+  "description": "An AI-powered Quran memorization assistant that listens to your recitation and corrects mistakes in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
